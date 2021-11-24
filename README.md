@@ -2,7 +2,7 @@
 <br>
 💻 webdev enthusiast
 <br>
-🤓 currently learning HTML5  and CSS3
+🤓 currently learning HTML5, CSS3 and JS
 <br>
 🎯 main goal: become a front-end dev
 <br>
