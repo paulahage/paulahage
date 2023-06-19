@@ -1,6 +1,6 @@
 <h1>Hi 👋</h1>
 <br>
-I'm Paula, a Front-End Developer always looking to improve my technical skills and grow my knowledge day-to-day as a continuous learner.
+I'm Paula, a Web Developer always looking to improve my technical skills and grow my knowledge day-to-day as a continuous learner.
 <br>
 <br>
 Reach me out 👇
